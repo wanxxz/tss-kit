@@ -1,0 +1,41 @@
+{
+  "type": "module",
+  "scripts": {
+    "prepare": "husky"
+  },
+  "dependencies": {
+    "@emotion/react": "11.14.0",
+    "@tanstack/query-db-collection": "0.2.29",
+    "@tanstack/react-db": "0.1.30",
+    "@tanstack/react-form": "1.23.6",
+    "@tanstack/react-query": "5.90.2",
+    "@tanstack/react-router": "1.132.47",
+    "@tanstack/react-start": "1.132.51",
+    "@tanstack/virtual-file-routes": "1.132.31",
+    "@types/lodash": "4.17.20",
+    "@types/node": "24.5.2",
+    "@types/react": "19.1.8",
+    "@types/react-dom": "19.1.6",
+    "@uidotdev/usehooks": "2.4.1",
+    "consola": "3.4.2",
+    "dotenv": "17.2.1",
+    "lodash": "4.17.21",
+    "lucide-react": "0.536.0",
+    "nanoid": "5.1.5",
+    "open-props": "1.7.16",
+    "react": "19.1.1",
+    "react-aria": "3.42.0",
+    "react-aria-components": "1.11.0",
+    "react-dom": "19.1.1",
+    "use-intl": "4.3.4",
+    "zod": "4.0.14"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "5.0.4",
+    "husky": "9.1.7",
+    "lint-staged": "16.1.2",
+    "prettier": "3.6.2",
+    "typescript": "5.8.3",
+    "vite": "7.1.9"
+  }
+}
